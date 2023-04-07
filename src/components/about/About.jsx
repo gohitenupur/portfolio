@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/nup2.JPG'
+import ME from '../../assets/move.b0d50c6993364ae6c575.gif'
 import {FaAward} from 'react-icons/fa'
 import {AiOutlineSolution} from 'react-icons/ai'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -35,7 +35,7 @@ const About = () => {
               <small>5+ Completed</small>
             </article>
           </div>
-          <p>I am Nupur Gohite, a Full Stack Web Developer. My passion lies in solving complex problems and creating stunning websites. I have been obsessed with the idea of using software to solve practical problems. Software development is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world. I really enjoy learning new things and connecting with people across a range of industries, so don't hesitate to reach out if you'd like to get in touch.</p>
+          <p>I am Nupur Gohite, a Full Stack Web Developer. I have previously worked as a FCSA and PGT CS in Jawahar Navodaya Vidyalaya. I am passionate about developing scalable web applications and have experience working across the full stack. I am currently looking to join a tech organization where I can continue to grow my skill set while contributing to the organization.</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
 
